@@ -1,0 +1,11 @@
+mysqlclient==2.1.1
+mysql-connector==2.2.9
+numpy==1.23.0
+plotly==5.11.0
+python-binance==1.0.16
+SQLAlchemy==1.4.44
+Backtesting==0.3.3
+python-dateutil==2.8.2
+pandas==1.4.0
+numpy==1.23.0
+
